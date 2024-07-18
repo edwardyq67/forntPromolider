@@ -1,0 +1,30 @@
+{
+  "name": "proyectopromolider",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "datatables.net": "^2.0.8",
+    "datatables.net-dt": "^2.0.8",
+    "jquery": "^3.7.1",
+    "vue": "^2.7.16",
+    "vue-router": "^3.6.5",
+    "vue2-collapse": "^1.0.15"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.7",
+    "@babel/preset-env": "^7.24.7",
+    "@vitejs/plugin-legacy": "^2.0.0",
+    "@vitejs/plugin-vue2": "^1.1.2",
+    "autoprefixer": "^10.4.19",
+    "babel-loader": "^9.1.3",
+    "postcss": "^8.4.39",
+    "tailwindcss": "^3.4.4",
+    "terser": "^5.14.2",
+    "vite": "^3.0.2"
+  }
+}
